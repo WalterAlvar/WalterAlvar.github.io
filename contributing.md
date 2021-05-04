@@ -1,4 +1,4 @@
-## Contributing to UX/UI Design - Rayane's Homepage
+# Contributing to UX/UI Design - Walter's Homepage
 
 This document is a set of guidelines to help you contribute to this project.
 
@@ -28,4 +28,4 @@ I am new to web development and any idea or suggestion helps me to become a bett
 
 ## Code of Conduct
 
-By participating in this repository, you are expected to uphold the [Code of Conduct](https://github.com/rayanejsilva/UX-UI-Design-Homepage/blob/main/CODE_OF_CONDUCT.md).
+By participating in this repository, you are expected to uphold the [Code of Conduct](https://github.com/WalterAlvar/WalterAlvar.github.io/blob/main/CODE_OF_CONDUCT.md).
