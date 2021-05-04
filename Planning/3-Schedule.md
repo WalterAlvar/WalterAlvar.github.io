@@ -54,5 +54,5 @@
 | Tuesday   |                  |
 | Wednesday |                  |
 | Thursday  |                  |
-| Friday    |                  Wireframe for Deepa's homepage                  |
+| Friday    |                  |
 
