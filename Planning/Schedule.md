@@ -2,9 +2,9 @@
 - **Designing:** Practice *User Interviews* and *Design Thinking* by working in pairs to come up with your Home Page backlogs, wireframes and READMEs.
 
 ## "To Do" List:  
-- [ ] Create an Interview Template
+- [x] Create an Interview Template
 - [ ] Set a Project Board for the repository
-- [ ] Create a Planning Folder into the repo
+- [x] Create a Planning Folder into the repo
 - [ ] Make and process Interview with Hajir
 - [ ] Make and process Interview with Laura 
 - [ ] Fork Hajir's Repo
@@ -25,7 +25,11 @@
 ### Working Schedule:
 - Monday:  
   
-    - [ ] Set the Repo with "Planning" folder
-    - [ ] Make Interview Template
-    - [ ] Set a meeting for the Interview with Hajir
-    - [ ] Set a meeting for the Interview with Laura
+    - [x] Set the Repo with "Planning" folder
+    - [x] Make Interview Template
+    - [x] Set a meeting for the Interview with Hajir
+    - [x] Set a meeting for the Interview with Laura
+
+- Tuesday: 
+    - [ ] Process both interviews
+    - [ ] Create __"Interview Notes"__ for both interviews
