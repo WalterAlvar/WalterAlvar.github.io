@@ -22,7 +22,7 @@
 **Thursday**: 9am to 8pm  
 **Friday**: 9am to 3pm
 
-### Working Schedule:
+### Working Schedule Week 1:
 - Monday:  
   
     - [x] Set the Repo with "Planning" folder
@@ -33,3 +33,26 @@
 - Tuesday: 
     - [ ] Process both interviews
     - [ ] Create __"Interview Notes"__ for both interviews
+
+## WEEK 2
+
+### Availability
+
+| Day       |    Time     | Hours per day |
+| --------- | :---------: | :-----------: |
+| Monday    | after 11:00 |      6h       |
+| Tuesday   |   all day   |      8h       |
+| Wednesday | after 11:00 |      6h       |
+| Thursday  |   all day   |      8h       |
+| Friday    | before 15:00 |      4h       |
+
+### Work plan
+
+| Day       |                              Topic                               |
+| --------- | :--------------------------------------------------------------: |
+| Monday    |                  |
+| Tuesday   |                  |
+| Wednesday |                  |
+| Thursday  |                  |
+| Friday    |                  Wireframe for Deepa's homepage                  |
+
