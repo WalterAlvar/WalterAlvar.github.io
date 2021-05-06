@@ -5,8 +5,8 @@
 - [x] Create an Interview Template
 - [ ] Set a Project Board for the repository
 - [x] Create a Planning Folder into the repo
-- [ ] Make and process Interview with Hajir
-- [ ] Make and process Interview with Laura 
+- [x] Make and process Interview with Hajir
+- [x] Make and process Interview with Laura 
 - [ ] Fork Hajir's Repo
 - [ ] Fork Laura's Repo
 - [ ] Create **Interview Notes** and send the PR to Hajir
@@ -31,8 +31,21 @@
     - [x] Set a meeting for the Interview with Laura
 
 - Tuesday: 
-    - [ ] Process both interviews
-    - [ ] Create __"Interview Notes"__ for both interviews
+    - [x] Process both interviews
+    - [x] Create __"Interview Notes"__ for both interviews
+
+- Wednesday:
+  - Not available
+  
+- Thursday:
+  - Send both Interview notes. 
+  - Create a wireframe and moodboard for Laura.
+  - Create a wireframe and moodboard for Hajir.
+  - Create an Backlog sketch for Laura.
+  - Create an Backlog sketch for Hajir.
+
+- Friday:
+  - work in my own backlog and wireframe based upon my partners notes. 
 
 ## WEEK 2
 
